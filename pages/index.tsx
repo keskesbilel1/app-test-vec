@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-          Commencez par modifier&nbsp;
+           Modifier par bilel keskes &nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
